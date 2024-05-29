@@ -8,7 +8,7 @@ class Car:
 
 
 
-millavantgarde = Car(color_pm="Gray", speed_pm=360, model_pm="millavantgarde", value_pm="3.2", horsepower_pm=444)
+millavantgarde = Car(color_pm="Gray", speed_pm=360, model_pm="millavantgarde!", value_pm="3.2", horsepower_pm=444)
 Mers = Car(color_pm="black", speed_pm=240, model_pm=124, value_pm=2.2, horsepower_pm=300)
 Lexus = Car(color_pm="white", speed_pm=360, model_pm="Lexus Lx", value_pm=5.7, horsepower_pm=555)
 Bmw = Car(color_pm="blue", speed_pm=240, model_pm="M.5", value_pm=4.5, horsepower_pm=555)
