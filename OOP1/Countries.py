@@ -7,7 +7,7 @@ class Country:
         self.Language = Language_pm
 
 
-Kyrgyzstan = Country(population_pm="Kyrgyzstan - Population = 7 000_000", Climat_pm="continental",
+Kyrgyzstan = Country(population_pm="Kyrgyzstan - Population = 7 000_000", Climat_pm="continental!",
                      Locationcountry_pm="Central Asia",
                      Themonetarycurrencyoftheod_pm="SOM",
                      Language_pm="National Kyrgyz language!")
